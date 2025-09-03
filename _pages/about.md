@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am currently a Ph.D. student in Statistics at the [University of Massachusetts Amherst](https://www.umass.edu/mathematics-statistics/).  
+Before this, I received my M.S. in Statistics and Data Science from [Northwestern University](https://statistics.northwestern.edu) in 2025, advised by Prof. [Bradly Stadie](https://bstadie.github.io), Prof. [Noelle I Samia](https://statistics.northwestern.edu/people/faculty/noelle-samia.html), and Prof. [Lihui Zhao](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=22039).  
+I earned my B.S. in Mathematics from the [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2021, where I was mentored by Prof. [Yong Li](https://bs.ustc.edu.cn/english/profile-22.html).  
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My earlier research interests were in **machine learning and reinforcement learning**.  
+Currently, I am especially interested in **causal inference**.
